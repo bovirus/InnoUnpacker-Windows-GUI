@@ -8,7 +8,14 @@ de.InnoUnpack=Öffne &Inno-Setup-Installer-Datei mit InnoUnpacker
 
 it.FileAssoc=Associazione file:
 it.DescContext=Aggiungi "InnoUnpacker" al menu contestuale dei file exe
-it.InnoUnpack=Apri il file di &Inno Setup Installer con InnoUnpacker
+it.InnoUnpack=Apri il file &Inno Setup Installer con InnoUnpacker
+it.NameAndVersion={#ProgramName} {#ApplicationVersion}
+it.LaunchProgram=Esegui {#ProgramName}
+it.AdditionalIcons=Collegamenti:
+it.CreateDesktopIcon=Crea collegamento programma sul &desktop
+it.CreateQuickLaunchIcon=Crea collegamento programma nella &barra 'Avvio veloce'
+it.AssocFileExtension=&Associa i file con estensione '%2' a '%1'
+it.AssocingFileExtension=Associazione file con estensione '%2' a '%1'..
 
 es.FileAssoc=Asociaciones de fichero:
 es.DescContext=Añadir "InnoUnpacker" al menú contextual de ficheros exe

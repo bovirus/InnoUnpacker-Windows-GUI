@@ -62,6 +62,10 @@ en.DescContext=Add "InnoUnpacker" to context menu of exe files
 en.InnoUnpack=Open &Inno Setup installer file with InnoUnpacker
 #include "iu-20-cmsg.inc"
 
+[Messages]
+en.SetupWindowTitle=Setup - {#ProgramName} {#ApplicationVersion}
+#include "iu-20-msg.inc"
+
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 Name: "fileassoc"; Description: "{cm:DescContext}"; GroupDescription: "{cm:FileAssoc}"; 
